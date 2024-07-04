@@ -1,5 +1,5 @@
 ## Hola, Soy Edenilson Molina 👋
->> Estudio en la Universidad de El Salvador y hago uso de GitHub para fines educativos
+> Estudio en la Universidad de El Salvador y hago uso de GitHub para fines educativos
 <!--
 **Edenilson-Molina/Edenilson-Molina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
