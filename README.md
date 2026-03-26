@@ -2,7 +2,7 @@
 Estudio en la Universidad de El Salvador y hago uso de GitHub para fines educativos
 > #### ¡Disfruto desarrollando software!
 >
-> - Soy egresado y estoy en un curso de especialización en ML.
+> - Soy egresado y estoy en un curso de especialización sobre ML.
 > - Me encanta probar nuevas tecnologías.
 >
 >  **Ingeniería de Sistemas Informáticos**.
