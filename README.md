@@ -17,10 +17,10 @@ Apasionado por el desarrollo de software, enfocado en construir soluciones efici
 
 ### 🛠️ Tecnologías e intereses  
 
-- Desarrollo Backend
-- Desarrollo Frontend   
+- Desarrollo de aplicaciones 
 - Bases de datos (SQL / PL-SQL)  
-- Arquitectura de software (MVC, arquitectura en capas)  
+- Arquitectura de software (MVC, arquitectura en capas)
+- Interfaces y experiencia de usuario  
 - Inteligencia Artificial / Machine Learning  
 
 ---
