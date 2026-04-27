@@ -1,11 +1,32 @@
-## Hola, Soy Edenilson Molina 👋
-Estudio en la Universidad de El Salvador y hago uso de GitHub para fines educativos
-> #### ¡Disfruto desarrollando software!
->
-> - Soy egresado y estoy en un curso de especialización sobre ML.
-> - Me encanta probar nuevas tecnologías.
->
->  **Ingeniería de Sistemas Informáticos**.
+## 👋 Hola, soy Edenilson Molina  
+
+💻 **Ingeniero en Sistemas Informáticos**  
+
+Apasionado por el desarrollo de software, enfocado en construir soluciones eficientes, escalables y bien estructuradas.
+
+---
+
+### 🚀 Sobre mí  
+
+- 🧠 Experiencia en desarrollo de sistemas y modelado de soluciones  
+- ⚙️ Interés en arquitecturas de software y buenas prácticas  
+- 🤖 En formación continua en Machine Learning  
+- 📈 Comprometido con el aprendizaje constante y la mejora profesional  
+
+---
+
+### 🛠️ Tecnologías e intereses  
+
+- Desarrollo Backend  
+- Bases de datos (SQL / PL-SQL)  
+- Arquitectura de software (MVC, arquitectura en capas)  
+- Inteligencia Artificial / Machine Learning  
+
+---
+
+### ✨ Enfoque profesional  
+
+> “Me enfoco en crear soluciones claras, mantenibles y alineadas a las necesidades reales del negocio.”
 <!--
 **Edenilson-Molina/Edenilson-Molina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
