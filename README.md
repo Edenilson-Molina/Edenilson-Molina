@@ -33,9 +33,25 @@
 ### 🛠️ Tecnologías & Herramientas
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,js,ts,astro,react,tailwind,postgres,mysql,docker,git,linux&theme=dark" alt="Tech Stack" />
-  </a>
+
+**Backend & Frameworks**  
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,spring,laravel,django,fastapi,nestjs&theme=dark" alt="Backend & Frameworks" /></a>
+
+<br/><br/>
+
+**Machine Learning & IA**  
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="Machine Learning & IA" /></a>
+
+<br/><br/>
+
+**Frontend & Web**  
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,astro,tailwind&theme=dark" alt="Frontend & Web" /></a>
+
+<br/><br/>
+
+**Bases de Datos & DevOps**  
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,linux&theme=dark" alt="Bases de Datos & DevOps" /></a>
+
 </div>
 
 ---
