@@ -2,7 +2,7 @@
 <!-- HEADER BANNER DINÁMICO                                  -->
 <!-- ======================================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,26&height=220&section=header&text=Elmer%20Edenilson%20Rosales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ingeniero%20en%20Sistemas%20%7C%20Machine%20Learning%20%26%20Software%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <img src="./assets/header.svg" width="100%" alt="Header Banner" />
 </div>
 
 <!-- ======================================================== -->
