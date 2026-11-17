@@ -45,7 +45,7 @@
 <br/><br/>
 
 **Frontend & Web**  
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,astro,tailwind&theme=dark" alt="Frontend & Web" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,vue,angular,astro,tailwind&theme=dark" alt="Frontend & Web" /></a>
 
 <br/><br/>
 
